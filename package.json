@@ -1,10 +1,15 @@
 {
+  "proxy": "http://localhost:3000",
   "name": "desafio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
+    "react-confirm-alert": "^2.4.1",
     "react-dom": "^16.9.0",
+    "react-input-mask": "^2.0.4",
+    "react-linkify": "^1.0.0-alpha",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1"
   },
   "scripts": {
